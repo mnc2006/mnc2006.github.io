@@ -239,15 +239,6 @@ header .header-content .header-content-inner p {
     }
 }
 
-.profile{
-  position: relative;
-  width: 50%;
-  min-height: auto;
-  text-align: center;
-  image: url(../img/me.jpg);  
-}
-
-
 .img-circle{
   height: auto;
   width: auto;
