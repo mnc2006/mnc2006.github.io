@@ -14,6 +14,11 @@ body {
     font-family: Merriweather,'Helvetica Neue',Arial,sans-serif;
 }
 
+.profile{
+  display: inline-block;
+  padding: 10px;
+  }
+
 hr {
     max-width: 50px;
     border-color: #0A022D;
@@ -249,8 +254,11 @@ header .header-content .header-content-inner p {
 }
 
 .service-box {
-    margin: 50px auto 0;
-    max-width: 400px;
+    display: inline-block;
+    margin: auto;
+    padding: 4px;
+    height: 100px;
+    width: auto;
 }
 
 @media(min-width:992px) {
