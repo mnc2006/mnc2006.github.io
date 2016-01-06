@@ -38,7 +38,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #eb3812;
+    color: #C0C0C0;
 }
 
 h1,
@@ -99,7 +99,7 @@ aside {
 
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
-    color: #eb3812;
+    color: #C0C0C0;
 }
 
 .navbar-default .nav > li>a,
@@ -163,7 +163,7 @@ aside {
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
     .navbar-default.affix .navbar-header .navbar-brand:focus {
-        color: #eb3812;
+        color: #C0C0C0;
     }
 
     .navbar-default.affix .nav > li>a,
@@ -399,7 +399,7 @@ fieldset[disabled] .btn-default.active {
 .btn-primary {
     border-color: #0A022D;
     color: #fff;
-    background-color: #0A022D;
+    background-color: #C0C0C0;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
