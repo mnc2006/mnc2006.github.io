@@ -17,11 +17,14 @@ body {
 .profile{
   display: inline;
   padding: 50px;
+  max-height: inherit;
+  max-width: inherit;
+
   }
 
 hr {
     max-width: 50px;
-    border-color: #0A022D;
+    border-color: #C0C0C0;
     border-width: 3px;
 }
 
@@ -30,7 +33,7 @@ hr.light {
 }
 
 a {
-    color: #0A022D;
+    color: #C0C0C0;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
