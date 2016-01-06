@@ -63,7 +63,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #F7BE81;
+    background-color: #886A08;
 }
 
 .bg-dark {
@@ -410,9 +410,9 @@ fieldset[disabled] .btn-default.active {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-    border-color: #ed431f;
+    border-color: #0B6121;
     color: #fff;
-    background-color: #ee4b28;
+    background-color: #0B6121;
 }
 
 .btn-primary:active,
