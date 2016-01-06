@@ -15,8 +15,8 @@ body {
 }
 
 .profile{
-  display: inline;
-  padding: 50px;
+  display: grid;
+  padding: 5px;
   max-height: inherit;
   max-width: inherit;
 
