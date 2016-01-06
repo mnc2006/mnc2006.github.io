@@ -34,6 +34,10 @@ hr.light {
     height: auto;
 }
 
+.img-circle {
+  border-radius: 50%;
+}
+
 a {
     color: #f05f40;
     -webkit-transition: all .35s;
