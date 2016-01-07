@@ -24,16 +24,52 @@ hr.light {
     border-color: #fff;
 }
 
-.resize {
+.resize{
     width: 300px;
     height: auto;
 }
 
-.resize {
+.resize{
     width: 200px;
     height: auto;
   }
 
+  .tg{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-color: #bbb;
+    float: center;
+  }
+  .tg td{
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    padding: 10px 5px;
+    border-style:solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: #bbb;
+    color: #594F4F;
+    background-color: #E0FFEB;
+  }
+
+  .tg th{
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    padding: 10px 5px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: #bbb;
+    color: #493F3F;
+    background-color: #9DE0AD;
+  }
+
+  .tg .tg-s6z2{
+    text-align:center
+  }
 
 a {
     color: #30453C;
